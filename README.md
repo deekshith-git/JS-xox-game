@@ -1,2 +1,2 @@
-# Javascript-based-XOX-game-
+# Javascript-based-XOX-game
 XOX game is built using html, CSS and JavaScript
